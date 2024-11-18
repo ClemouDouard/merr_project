@@ -1,5 +1,5 @@
 # Charger les données
-data <- read.csv(file = "/home/theo.rochette/Bureau/MERR23/support2.csv", header = TRUE)
+data <- read.csv(file = "../data/support2.csv", header = TRUE)
 
 # Aperçu des données
 print(data)
